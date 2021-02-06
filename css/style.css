@@ -1,0 +1,36 @@
+body{
+	background-color: #BDBDBD;
+	background-image: url();
+}
+h1{
+	color: red;
+	border: 5px dashed white;
+	font-family: sans-serif;
+}
+div{
+	border: 1px solid red;
+	background-color: rgb(33, 45, 55);
+	width: 50%;
+	align-content: center;
+	margin: 5px;
+}
+.main{
+	text-align: center;
+	color: white;
+}
+#paragraph-1{
+	border: 3px solid blue;
+	color: white;
+	padding: 20px;
+	font-style: italic;
+	font-size: 18px;
+}
+#paragraph-2{
+	border: 3px dotted yellow;
+	background-color: rgba(89, 19, 11, 0.5);
+	color: white;
+	margin: 10px;
+	padding: 20px;
+	font-style: bold;
+	font-size: 18px;
+}
